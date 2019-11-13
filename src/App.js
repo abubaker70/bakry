@@ -47,7 +47,7 @@ class App extends Component {
               : Sound.status.STOPPED
           }
         />
-
+        <h1>Hello</h1>
         <Typography id="continuous-slider" gutterBottom>
           Volume
         </Typography>
