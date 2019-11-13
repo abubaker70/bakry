@@ -49,7 +49,7 @@ class App extends Component {
         />
 
         <Typography id="continuous-slider" gutterBottom>
-          Volume
+          Volumem
         </Typography>
         <Grid container spacing={2}>
           <Grid item>
